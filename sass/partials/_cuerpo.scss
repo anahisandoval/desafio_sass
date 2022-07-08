@@ -1,0 +1,4 @@
+body{
+    @include parrafo($font_principal,$mini,$peque,$text-color);
+    background-color: aqua;
+}  

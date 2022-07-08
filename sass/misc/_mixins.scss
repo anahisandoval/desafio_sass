@@ -1,0 +1,8 @@
+@mixin parrafo($fuente,$espaciado,$color,$tama){
+    p{
+        font-family: $fuente;
+        padding: $espaciado;
+        color: $color;
+        font-size:$tama;    
+    }
+}
