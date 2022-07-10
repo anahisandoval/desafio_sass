@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/*COLORES*/
+/*ESPACIADO*/
+/*FUENTES*/
+/*TAMAÑO FUENTE*/
+body {
+  background-color: aqua; }
+  body p {
+    font-family: "Barlow", "san-serif";
+    padding: 1rem;
+    color: 10px;
+    font-size: #4b0082; }
+
+footer p {
+  font-family: 'Courier New', Courier, monospace; }
+
+footer img {
+  animation-name: backInUp;
+  animation-duration: 3s;
+  animation-iteration-count: initial; }
